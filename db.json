@@ -1,0 +1,113 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "fullName": "Mark J",
+      "contactPreference": "email",
+      "phone": "6144468015",
+      "skills": [
+        {
+          "skillName": "ngular",
+          "experienceInYears": "2",
+          "proficiency": "beginner"
+        },
+        {
+          "skillName": "skill",
+          "experienceInYears": "1",
+          "proficiency": "advanced"
+        }
+      ],
+      "email": "1@outlook.com"
+    },
+    {
+      "id": 2,
+      "fullName": "John Janardhan",
+      "contactPreference": "email",
+      "email": "john@outlook.com",
+      "phone": "3242138971",
+      "skills": [
+        {
+          "skillName": "Angular",
+          "experienceInYears": 2,
+          "proficiency": "beginner"
+        },
+        {
+          "skillName": "HTML",
+          "experienceInYears": 2,
+          "proficiency": "intermediate"
+        },
+        {
+          "skillName": "LINQ",
+          "experienceInYears": 3,
+          "proficiency": "advanced"
+        },
+        {
+          "skillName": "Angular 7",
+          "experienceInYears": "2",
+          "proficiency": "beginner"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "fullName": "gautam s",
+      "contactPreference": "email",
+      "email": "shansgautam@outlook.com",
+      "phone": "614468016",
+      "skills": [
+        {
+          "skillName": "c#",
+          "experienceInYears": "12",
+          "proficiency": "beginner"
+        },
+        {
+          "skillName": "db",
+          "experienceInYears": "12",
+          "proficiency": "advanced"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "fullName": "neha hegde",
+      "contactPreference": "email",
+      "email": "nh@outlook.com",
+      "phone": "6144013253",
+      "skills": [
+        {
+          "skillName": "audits",
+          "experienceInYears": "7",
+          "proficiency": "beginner"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "fullName": "stuti shanbhag",
+      "contactPreference": "email",
+      "email": "ss1@outlook.com",
+      "phone": "6144468015",
+      "skills": [
+        {
+          "skillName": "23",
+          "experienceInYears": "12",
+          "proficiency": "beginner"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "fullName": "dgg",
+      "contactPreference": "email",
+      "email": "sgabs@outlook.com",
+      "phone": "1212",
+      "skills": [
+        {
+          "skillName": "c$1233",
+          "experienceInYears": "12",
+          "proficiency": "beginner"
+        }
+      ]
+    }
+  ]
+}
